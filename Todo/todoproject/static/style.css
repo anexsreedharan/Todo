@@ -1,0 +1,12 @@
+.banner{
+background-color:#5C3317;
+width:100%;
+height:150px;
+margin-bottom:40px;
+}
+
+.banner-text{
+color:white;
+font-family:bold;
+text-align:center;
+}
